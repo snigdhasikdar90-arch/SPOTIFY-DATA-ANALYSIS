@@ -43,9 +43,12 @@ The dashboard transforms raw Spotify data into actionable insights that can help
 🔹 Business Insight Generation
 
 📷 IMAGE---
-!()
+!(https://github.com/snigdhasikdar90-arch/SPOTIFY-DATA-ANALYSIS/blob/main/Spotify%20Dashboard%20Picture.png?raw=true)
 
 CONTACT--
+
+Email-snigdhasikdar@90
+linkedin-
 
 🚀 Conclusion
 
