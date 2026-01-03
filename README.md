@@ -47,7 +47,7 @@ The dashboard transforms raw Spotify data into actionable insights that can help
 
 CONTACT--
 
-Email-snigdhasikdar90@gmail.com
+Email- snigdhasikdar90@gmail.com
 
 linkedin-www.linkedin.com/in/snigdha-sikdar-85b391377
 
